@@ -13,6 +13,20 @@
 		AAE2D93D239F616000D2D4E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAE2D93B239F616000D2D4E5 /* Main.storyboard */; };
 		AAE2D93F239F616100D2D4E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAE2D93E239F616100D2D4E5 /* Assets.xcassets */; };
 		AAE2D942239F616200D2D4E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAE2D940239F616200D2D4E5 /* LaunchScreen.storyboard */; };
+		AAE2D95223A08C4300D2D4E5 /* LanguageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE2D95123A08C4300D2D4E5 /* LanguageData.swift */; };
+		AAE2D95423A08E2B00D2D4E5 /* AnimalData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE2D95323A08E2B00D2D4E5 /* AnimalData.swift */; };
+		AAE2D95623A08F4A00D2D4E5 /* CountryData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE2D95523A08F4A00D2D4E5 /* CountryData.swift */; };
+		AAE2D96B23A0A50900D2D4E5 /* LanguageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE2D96923A0A50900D2D4E5 /* LanguageCell.swift */; };
+		AAE2D96C23A0A50900D2D4E5 /* LanguageCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AAE2D96A23A0A50900D2D4E5 /* LanguageCell.xib */; };
+		AAE2D96F23A0A65500D2D4E5 /* AnimalCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE2D96D23A0A65500D2D4E5 /* AnimalCell.swift */; };
+		AAE2D97023A0A65500D2D4E5 /* AnimalCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AAE2D96E23A0A65500D2D4E5 /* AnimalCell.xib */; };
+		AAE2D97623A0CC8E00D2D4E5 /* Detail.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAE2D97523A0CC8E00D2D4E5 /* Detail.storyboard */; };
+		AAE2D97823A0CCB000D2D4E5 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE2D97723A0CCB000D2D4E5 /* DetailViewController.swift */; };
+		AAE2D97A23A0D35900D2D4E5 /* DetailViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE2D97923A0D35900D2D4E5 /* DetailViewController2.swift */; };
+		AAE2D97C23A0D36900D2D4E5 /* Detail2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAE2D97B23A0D36900D2D4E5 /* Detail2.storyboard */; };
+		AAE2D98423A200DF00D2D4E5 /* PersonData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE2D98323A200DF00D2D4E5 /* PersonData.swift */; };
+		AAE2D98723A2099600D2D4E5 /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE2D98523A2099600D2D4E5 /* PersonCell.swift */; };
+		AAE2D98823A2099600D2D4E5 /* PersonCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AAE2D98623A2099600D2D4E5 /* PersonCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +38,20 @@
 		AAE2D93E239F616100D2D4E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AAE2D941239F616200D2D4E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AAE2D943239F616200D2D4E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AAE2D95123A08C4300D2D4E5 /* LanguageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageData.swift; sourceTree = "<group>"; };
+		AAE2D95323A08E2B00D2D4E5 /* AnimalData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalData.swift; sourceTree = "<group>"; };
+		AAE2D95523A08F4A00D2D4E5 /* CountryData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryData.swift; sourceTree = "<group>"; };
+		AAE2D96923A0A50900D2D4E5 /* LanguageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageCell.swift; sourceTree = "<group>"; };
+		AAE2D96A23A0A50900D2D4E5 /* LanguageCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LanguageCell.xib; sourceTree = "<group>"; };
+		AAE2D96D23A0A65500D2D4E5 /* AnimalCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalCell.swift; sourceTree = "<group>"; };
+		AAE2D96E23A0A65500D2D4E5 /* AnimalCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AnimalCell.xib; sourceTree = "<group>"; };
+		AAE2D97523A0CC8E00D2D4E5 /* Detail.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Detail.storyboard; sourceTree = "<group>"; };
+		AAE2D97723A0CCB000D2D4E5 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		AAE2D97923A0D35900D2D4E5 /* DetailViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController2.swift; sourceTree = "<group>"; };
+		AAE2D97B23A0D36900D2D4E5 /* Detail2.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Detail2.storyboard; sourceTree = "<group>"; };
+		AAE2D98323A200DF00D2D4E5 /* PersonData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonData.swift; sourceTree = "<group>"; };
+		AAE2D98523A2099600D2D4E5 /* PersonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
+		AAE2D98623A2099600D2D4E5 /* PersonCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PersonCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +84,7 @@
 		AAE2D934239F616000D2D4E5 /* TableView Methods */ = {
 			isa = PBXGroup;
 			children = (
+				AAE2D96823A0A4F500D2D4E5 /* Cell */,
 				AAE2D935239F616000D2D4E5 /* AppDelegate.swift */,
 				AAE2D937239F616000D2D4E5 /* SceneDelegate.swift */,
 				AAE2D939239F616000D2D4E5 /* ViewController.swift */,
@@ -63,8 +92,29 @@
 				AAE2D93E239F616100D2D4E5 /* Assets.xcassets */,
 				AAE2D940239F616200D2D4E5 /* LaunchScreen.storyboard */,
 				AAE2D943239F616200D2D4E5 /* Info.plist */,
+				AAE2D95123A08C4300D2D4E5 /* LanguageData.swift */,
+				AAE2D95323A08E2B00D2D4E5 /* AnimalData.swift */,
+				AAE2D95523A08F4A00D2D4E5 /* CountryData.swift */,
+				AAE2D98323A200DF00D2D4E5 /* PersonData.swift */,
+				AAE2D97523A0CC8E00D2D4E5 /* Detail.storyboard */,
+				AAE2D97723A0CCB000D2D4E5 /* DetailViewController.swift */,
+				AAE2D97923A0D35900D2D4E5 /* DetailViewController2.swift */,
+				AAE2D97B23A0D36900D2D4E5 /* Detail2.storyboard */,
 			);
 			path = "TableView Methods";
+			sourceTree = "<group>";
+		};
+		AAE2D96823A0A4F500D2D4E5 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				AAE2D96923A0A50900D2D4E5 /* LanguageCell.swift */,
+				AAE2D96A23A0A50900D2D4E5 /* LanguageCell.xib */,
+				AAE2D96D23A0A65500D2D4E5 /* AnimalCell.swift */,
+				AAE2D96E23A0A65500D2D4E5 /* AnimalCell.xib */,
+				AAE2D98523A2099600D2D4E5 /* PersonCell.swift */,
+				AAE2D98623A2099600D2D4E5 /* PersonCell.xib */,
+			);
+			path = Cell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,8 +176,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				AAE2D942239F616200D2D4E5 /* LaunchScreen.storyboard in Resources */,
+				AAE2D96C23A0A50900D2D4E5 /* LanguageCell.xib in Resources */,
+				AAE2D97023A0A65500D2D4E5 /* AnimalCell.xib in Resources */,
 				AAE2D93F239F616100D2D4E5 /* Assets.xcassets in Resources */,
+				AAE2D97C23A0D36900D2D4E5 /* Detail2.storyboard in Resources */,
 				AAE2D93D239F616000D2D4E5 /* Main.storyboard in Resources */,
+				AAE2D98823A2099600D2D4E5 /* PersonCell.xib in Resources */,
+				AAE2D97623A0CC8E00D2D4E5 /* Detail.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +193,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AAE2D98423A200DF00D2D4E5 /* PersonData.swift in Sources */,
+				AAE2D97823A0CCB000D2D4E5 /* DetailViewController.swift in Sources */,
 				AAE2D93A239F616000D2D4E5 /* ViewController.swift in Sources */,
+				AAE2D95423A08E2B00D2D4E5 /* AnimalData.swift in Sources */,
+				AAE2D95623A08F4A00D2D4E5 /* CountryData.swift in Sources */,
+				AAE2D95223A08C4300D2D4E5 /* LanguageData.swift in Sources */,
+				AAE2D98723A2099600D2D4E5 /* PersonCell.swift in Sources */,
 				AAE2D936239F616000D2D4E5 /* AppDelegate.swift in Sources */,
+				AAE2D96F23A0A65500D2D4E5 /* AnimalCell.swift in Sources */,
+				AAE2D96B23A0A50900D2D4E5 /* LanguageCell.swift in Sources */,
+				AAE2D97A23A0D35900D2D4E5 /* DetailViewController2.swift in Sources */,
 				AAE2D938239F616000D2D4E5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
